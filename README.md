@@ -5,7 +5,7 @@ Open source version of Universal Thing Identity Module (UTIM) for IoT devices wr
 
 Use `pip` for python3:
 
-    pip3 install utim
+    pip3 install --extra-index-url https://test.pypi.org/simple/ utim
 
 ## Launch
 

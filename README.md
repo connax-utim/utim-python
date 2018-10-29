@@ -1,3 +1,5 @@
+[![License badge](https://img.shields.io/badge/license-Apache2-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 # utim-python
 Open source version of Universal Thing Identity Module (UTIM) for IoT devices written on Python 
 
